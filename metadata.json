@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Files",
+  "description": "Professional dual-pane file manager, Shizuku/Root explorer, universal archive & media converter, APK inspector, and code editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
